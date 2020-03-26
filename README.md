@@ -1,5 +1,5 @@
 # satpy_examples
-Scripts and notebooks with examples of using satpy https://satpy.readthedocs.io/en/latest/overview.html to read, resample and display MOD02 images.
+Scripts and notebooks with examples of using [satpy](https://satpy.readthedocs.io/en/latest/overview.html) to read, resample and display MOD02 images.
 
 ## Requirements
 python-3.7.6 (conda-forge/linux-64)
